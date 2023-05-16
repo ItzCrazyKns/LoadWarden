@@ -63,6 +63,7 @@ LoadWarden is open-source software licensed under the [MIT license](https://mit-
 # Acknowledgments
 LoadWarden is inspired by the need for a robust server monitoring solution to prevent overload and crashes. We would like to express our gratitude to the open-source community for their invaluable contributions and support.
 
+Please note that all the graphics and images used in this project belong to their respective owners. LoadWarden and its contributors do not claim any rights over them.
 # Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to us at our [Discord Server](soon™️
 )
