@@ -22,9 +22,15 @@ Before running LoadWarden, you need to configure it according to your server and
 4. Start the application using PM2:
 
 ```bash
-npm run start
+npm start
 ```
 This will automatically launch the LoadWarden process using PM2, ensuring it runs continuously.
+
+5. Testing Emailer and Webhook
+To ensure the proper functioning of the emailer and webhook configurations in LoadWarden, you can perform testing to verify that alerts and notifications are being sent correctly. Run the following command to test the emailer and webhook functionality:
+```bash
+npm test
+```
 
 # Configuration
 Before running LoadWarden, you need to configure it according to your server and notification preferences. Follow these steps to set up the necessary configuration:
